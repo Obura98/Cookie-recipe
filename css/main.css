@@ -1,0 +1,19 @@
+h1{
+  color: blue;
+  text-align: center;
+  font-style: italic;
+}
+p{
+  font-family: sans-serif;
+}
+ul,ol{
+  line-height: 40px;
+}
+html{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  background-color:grey;
+  color: black;
+}
